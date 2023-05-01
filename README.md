@@ -2,7 +2,7 @@
 
 A UX Software compartilha seu sonho levando treinamento e trocando experiência com o maior número perssoas. E cada uma delas tem reservado um lugar especial no nosso coração e também no nosso site. O projeto de alguns DEV's podem ser conferidos no endereço [uxsoftware.com.br](https://uxsoftware.com.br).
 
-### Ao publicar seu projeto no GitHub com o prefixo `uxsoftware`, automaticamente estará disponível na nossa página principal, acessível no link:
+### Ao publicar seu projeto no GitHub com o prefixo `uxsoftware`, automaticamente estará disponível na nossa página principal.
 
 ### Ex. `uxsoftware-starting`
 
